@@ -71,6 +71,7 @@
     .container-button button.increase:hover {
         background: #151785;
     }
+    
     @media(max-width:768px) {
         .container-button {
             width: 100%;
